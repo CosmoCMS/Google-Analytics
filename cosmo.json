@@ -1,0 +1,6 @@
+{
+    "name": "Google Analytics",
+    "module": "googleAnalytics",
+    "scripts": ["google-analytics.minify.js"],
+    "version": "1.0.0"
+}
